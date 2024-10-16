@@ -31,9 +31,9 @@ pip install pytesseract opencv-python
 
 bash
 
-wget https://nanonets.com/blog/content/images/2019/12/invoice-sample.jpg -O image.jpg
+wget [https://nanonets.com/blog/content/images/2019/12/invoice-sample.jpg -O image.jpg](https://imgv2-1-f.scribdassets.com/img/document/489263618/original/d4c043e88b/1726978389?v=1)
 
-wget https://nanonets.com/blog/content/images/2019/12/greek-thai.png
+wget [https://nanonets.com/blog/content/images/2019/12/greek-thai.png](https://dharma.tw/images-Key/New_Folder2/1.sans6.jpg)
 
 
 ## Instructions
