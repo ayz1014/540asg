@@ -11,7 +11,7 @@ This project shows how to use Tesseract and OpenCV to perform Optical Character 
 
 ## install
 
-First, you need to install Tesseract OCR and the associated Python library.
+First, you need to open colab and install Tesseract OCR and the associated Python library.
 
 ### install Tesseract OCR and development libraries
 
