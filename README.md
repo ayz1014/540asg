@@ -3,7 +3,7 @@
 
 This project shows how to use Tesseract and OpenCV to perform Optical Character Recognition (OCR) processing on images, including image preprocessing, text extraction, border drawing, and more.
 
-## 目录
+## content
 - [install](#install)
 - [Instructions](#Instructions)
 - [function](#function)
@@ -49,7 +49,7 @@ import pytesseract
 import os
 
 
-image_path = r'你的图片路径'
+image_path = ________
 
 
 ### Checks if a file exists and reads the image
